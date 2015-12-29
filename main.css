@@ -1,17 +1,26 @@
-.learn-more {
-    background-color: #f7f7f7
+.nav li {
+    display: inline;
+}
+.nav ul {
+    display: inline;
 }
 .nav a {
   color: #5a5a5a;
-  font-size: 24px;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+.jumbotron .container {
+    position: relative;
+    top: 100px;
 }
 .jumbotron {
-  background-color: #cccccc;
   background-image: url('https://goo.gl/04j7Nn');
   height: 500px;
 }
 .jumbotron h1 {
-  color: rgb(102,153,0)
+  color: #fff;
   font-size: 48px;
   font-weight: bold;
   font-family: 'Shift', sans-serif;
@@ -24,11 +33,10 @@
     font-family: 'Shift', sans-serif;
     font-size: 18px;
     font-weight: bold;
-}.learn-more h3 {
-    font-family: 'Shift', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
 }
 .learn-more a {
     color: #00b0ff
+}
+.learn-more {
+    background-color: #f7f7f7
 }
