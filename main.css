@@ -23,6 +23,10 @@
     font-family: 'Shift', sans-serif;
     font-size: 18px;
     font-weight: bold;
+}.learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
 }
 .learn-more a {
     color: #00b0ff
