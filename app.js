@@ -1,5 +1,5 @@
 var main = function() {
-$('.icon-menu').click;
+$('.icon-menu').click();
 };
 
 
